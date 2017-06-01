@@ -1,3 +1,6 @@
 [submodule "teamo-android-app"]
 	path = teamo-android-app
 	url = https://github.com/imirceagit/teamo-android-app.git
+[submodule "teamo-server-app"]
+	path = teamo-server-app
+	url = https://github.com/imirceagit/teamo-server-app.git
