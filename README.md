@@ -1,1 +1,1 @@
-teamo
+TeamO - Collaborative platform
